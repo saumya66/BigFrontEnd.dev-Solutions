@@ -5,8 +5,8 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 
 | No. | Question | Solution  
 |---| ----- | -------- |  
-|1|[implement curry()](https://bigfrontend.dev/problem/implement-curry)| [Code]() 
-|2|[implement curry() with placeholder support](https://bigfrontend.dev/problem/implement-curry-with-placeholder)| [Code]() 
-|3|[implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat)| [Code]() 
+|1|[implement curry()](https://bigfrontend.dev/problem/implement-curry)| [ImplementCurry.js](ImplementCurry.js) 
+|2|[implement curry() with placeholder support](https://bigfrontend.dev/problem/implement-curry-with-placeholder)| [ImplementCurryWithPlaceholder.js](ImplementCurryWithPlaceholder.js) 
+|3|[implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat)| [ImplementFlat.js](ImplementFlat.js) 
 
  
