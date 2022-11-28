@@ -10,4 +10,5 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 |3|[implement Array.prototype.flat()](https://bigfrontend.dev/problem/implement-Array-prototype.flat)| [ImplementFlat.js](ImplementFlat.js) 
 |4|[implement basic throttle()](https://bigfrontend.dev/problem/implement-basic-throttle)| [ImplementBasicThrottle.js](ImplementBasicThrottle.js)
 |5|[implement basic throttle()](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option)| [ImplementThrottleWithLeading&TrailingOption.js](ImplementThrottleWithLeading&TrailingOption.js)
-
+|6|[implement debounce()](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option)| [ImplementDebounce.js](ImplementDebounce.js)
+|6|[implement debounce() with leading & trailing option](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option)| [ImplementDebounceWithLeadingTrailingOption.js](ImplementDebounceWithLeadingTrailingOption.js)
