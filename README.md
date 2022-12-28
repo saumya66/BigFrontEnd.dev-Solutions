@@ -14,3 +14,4 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 |7|[implement debounce() with leading & trailing option](https://bigfrontend.dev/problem/implement-throttle-with-leading-and-trailing-option)| [ImplementDebounceWithLeadingTrailingOption.js](ImplementDebounceWithLeadingTrailingOption.js)
 |8|[what is Composition? create a pipe()](https://bigfrontend.dev/problem/what-is-composition-create-a-pipe)|[CompositionPipe.js](CompositionPipe.js)
 |9|[implement Immutability helper](https://bigfrontend.dev/problem/implement-Immutability-helper)|[ImplementImmutabilityHelper.js](ImplementImmutabilityHelper.js)
+|10|[first bad version](https://bigfrontend.dev/problem/first-bad-version)|[FirstBadVersion.js](FirstBadVersion.js)
