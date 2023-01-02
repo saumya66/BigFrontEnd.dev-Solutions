@@ -19,14 +19,10 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 |12|[Implement a general memoization function - `memo()`](https://bigfrontend.dev/problem/implement-general-memoization-function)|[ImplementMemoization.js](ImplementMemoization.js)
 |13|[implement a simple DOM wrapper to support method chaining like jQuery](https://bigfrontend.dev/problem/implement-a-simple-DOM-wrapper-to-support-method-chaining-like-jQuery)|[DOMWrapperForChaining.js](DOMWrapperForChaining.js)
 |14|[create an Event Emitter](https://bigfrontend.dev/problem/create-an-Event-Emitter)|[EventEmitter.js](EventEmitter.js)
-|15|[Create a simple store for DOM element
-](https://bigfrontend.dev/problem/create-a-simple-store-for-DOM-node)|[StoreForDOMElement.js](StoreForDOMElement.js)
-|16|[Improve a function
-](https://bigfrontend.dev/problem/improve-a-function)|[ImproveAFunction.js](ImproveAFunction.js)
+|15|[Create a simple store for DOM element](https://bigfrontend.dev/problem/create-a-simple-store-for-DOM-node)|[StoreForDOMElement.js](StoreForDOMElement.js)
+|16|[Improve a function](https://bigfrontend.dev/problem/improve-a-function)|[ImproveAFunction.js](ImproveAFunction.js)
 |17|[find corresponding node in two identical DOM tree](https://bigfrontend.dev/problem/find-corresponding-node-in-two-identical-DOM-tree)|[FindCorrespoidingNodeInDOM.js](FindCorrespoidingNodeInDOM.js)
-|18|[Detect data type in JavaScript
-](https://bigfrontend.dev/problem/detect-data-type-in-JavaScript)|[DetectDataType.js](DetectDataType.js)
-|19|[implement JSON.stringify()
-](https://bigfrontend.dev/problem/implement-JSON-stringify)|[ImplementJSONstringify().js](ImplementJSONstringify().js)
+|18|[Detect data type in JavaScript](https://bigfrontend.dev/problem/detect-data-type-in-JavaScript)|[DetectDataType.js](DetectDataType.js)
+|19|[implement JSON.stringify()](https://bigfrontend.dev/problem/implement-JSON-stringify)|[ImplementJSONstringify().js](ImplementJSONstringify().js)
 |20|[implement JSON.parse()](https://bigfrontend.dev/problem/implement-JSON-parse)|[ImplementJSONParse().js](ImplementJSONParse().js)
 |21|[create a sum()](https://bigfrontend.dev/problem/create-a-sum)|[CreateASum.js](CreateASum.js)
