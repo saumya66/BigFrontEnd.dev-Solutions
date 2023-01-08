@@ -13,20 +13,13 @@ function all(promises) {
       for(const promise of allPromises){
         lastPromise=promise.then(
           (val)=>ans.push(val),//onResolution this is triggered, and we push the resolved value to ans array
-          function(err){//onRejection this is triggered, and we store our first error which we will use to reject at the end 
-            if(!error){
-              error=err;
-            }
+          function(err){//onRejection this is triggered, and we reject it immediately
+            reject(err)
           })
       }
     }
-    lastPromise.then(()=>{
-      if(error){
-        reject(error)//rejecting with our first caught error 
-      }
-      else {
-        resolve(ans)//else just resolving with our ans array
-      }
+    lastPromise.then(()=>{//after all the promises are resolved we resolve our ans
+        resolve(ans)//just resolving with our ans array
     })
   })
 }
