@@ -37,3 +37,4 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 |31|[implement `Promise.all()`](https://bigfrontend.dev/problem/implement-Promise-all)|[ImplementPromise.All().js](ImplementPromise.All().js)
 |32|[implement `Promise.allSettled()`](https://bigfrontend.dev/problem/implement-Promise-allSettled)|[ImplementPromise.AllSettled().js](ImplementPromise.AllSettled().js)
 |33|[implement `Promise.any()`](https://bigfrontend.dev/problem/implement-Promise-any)|[ImplementPromise.Any().js](ImplementPromise.Any().js)
+|34|[implement `Promise.race()`](https://bigfrontend.dev/problem/implement-Promise-race)|[ImplementPromise.Race().js](ImplementPromise.Race().js)
