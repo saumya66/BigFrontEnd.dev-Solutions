@@ -34,3 +34,5 @@ This repository will contain solutions of the questions on BigFrontEnd.dev . Dec
 |27|[implement async helper - `sequence()`](https://bigfrontend.dev/problem/implement-async-helper-sequence)|[ImplementAsyncHelperSequence().js](ImplementAsyncHelperSequence().js)
 |28|[implement async helper - `parallel()`](https://bigfrontend.dev/problem/implement-async-helper-parallel)|[ImplementAsyncHelperParallel().js](ImplementAsyncHelperParallel().js)
 |29|[implement async helper - `race()`](https://bigfrontend.dev/problem/implement-async-helper-race)|[ImplementAsyncHelperRace().js](ImplementAsyncHelperRace().js)
+|31|[implement `Promise.all()`](https://bigfrontend.dev/problem/implement-Promise-all)|[ImplementPromise.All().js](ImplementPromise.All().js)
+|32|[implement `Promise.allSettled()`](https://bigfrontend.dev/problem/implement-Promise-allSettled)|[ImplementPromise.AllSettled().js](ImplementPromise.AllSettled().js)
